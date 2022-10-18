@@ -19,7 +19,7 @@ A detailed getting started guide can be found at [https://umami.is/docs/](https:
 npm install -g yarn
 ```
 
-### Get the source code and install packages
+### Get the source code and install packagesssss
 
 ```
 git clone https://github.com/umami-software/umami.git
